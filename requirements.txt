@@ -1,0 +1,6 @@
+# requirements.txt
+# Standard library only; no external packages needed.
+# (Listed just for assignment completeness)
+json
+pathlib
+logging
