@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Ikigai",
+    "author": "Hector",
+    "isbn": "21",
+    "status": "issued"
+  },
+  {
+    "title": "BLAHHHH",
+    "author": "XYZ",
+    "isbn": "22",
+    "status": "available"
+  },
+  {
+    "title": "BRUH",
+    "author": "ABC",
+    "isbn": "29",
+    "status": "available"
+  },
+  {
+    "title": "NEW FILE NAME",
+    "author": "DEF",
+    "isbn": "203",
+    "status": "available"
+  },
+  {
+    "title": "nEWW",
+    "author": "ghi",
+    "isbn": "764",
+    "status": "available"
+  },
+  {
+    "title": "green house",
+    "author": "jkl",
+    "isbn": "918",
+    "status": "available"
+  }
+]
